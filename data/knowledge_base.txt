@@ -1,0 +1,43 @@
+RECRUWEB KNOWLEDGE BASE — DEMO
+
+CANDIDATE SERVICES — SKILLED TRACK
+Career planning: assess current skills, target role, gaps and learning priorities.
+Resume improvement: identify weak achievements, keyword gaps and unclear project impact.
+Interview preparation: generate role-specific questions and evaluate answers.
+Skill development: map a target role to skills and a practical learning sequence.
+Education and training: recommend structured learning based on current level and target career.
+
+CANDIDATE SERVICES — UNSKILLED / FIRST-TIME JOB SEEKER TRACK
+Foundational assessment: understand literacy, numeracy and any existing informal experience before recommending a path.
+Step-by-step job readiness: break a target role into small foundational skills taught in order, not all at once.
+Vocational and practical training: recommend hands-on, practice-based learning over theory-heavy courses.
+Confidence building: pair each learning step with a small real task the candidate can complete and show as proof of skill.
+Entry-point matching: identify apprenticeships, entry-level roles or on-the-job training programs suited to a beginner.
+Local-language and low-literacy support: explain concepts in simple language and avoid assuming prior technical vocabulary.
+
+BUSINESS SERVICES
+Recruitment support: convert a job requirement into a structured role profile, skills and screening criteria.
+Hiring support: create interview questions, evaluation rubrics and structured candidate feedback.
+Workforce planning: identify skill demand, role priorities and training needs.
+Candidate management: organize screening notes and structured feedback.
+Business assistant: answer approved company knowledge questions.
+Real-world business problem solving: a business owner (e.g. a manufacturer or retailer) can describe a problem such as
+declining sales, difficulty finding B2B clients, or scaling online presence, and receive an AI-generated first response.
+
+AI-FIRST, HUMAN-BACKED ESCALATION MODEL
+The platform always attempts an AI-generated answer first using retrieval from verified knowledge.
+If the AI's retrieval confidence is low or the question falls outside verified knowledge, the query is escalated
+to a human expert team rather than the AI guessing or fabricating an answer.
+Escalated queries are queued with the original question, the mode (Candidate/Business), the candidate type
+(Skilled/Unskilled) and the AI's confidence score, and are targeted for human response within 24 hours.
+This creates a Human + AI support model instead of an AI that pretends to know everything.
+
+GLOBAL VISION
+The platform is designed to eventually serve both skilled and unskilled individuals globally: skilled users get
+gap analysis and better career/business opportunities, while unskilled users get personalized, practical,
+step-by-step training toward job readiness. Businesses of any size can get AI-first problem resolution with
+human expert support when required.
+
+RESPONSIBLE AI
+AI should support human decision makers and must not make autonomous employment decisions.
+Production systems should use encryption, RBAC, audit logs, retention policies and tenant isolation.
