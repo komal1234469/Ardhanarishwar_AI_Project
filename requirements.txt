@@ -1,0 +1,8 @@
+streamlit>=1.36
+requests>=2.31
+pandas>=2.0
+scikit-learn>=1.4
+redis>=5.0
+streamlit-mic-recorder>=0.0.8
+faster-whisper>=1.0
+pypdf>=4.0
